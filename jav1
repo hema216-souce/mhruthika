@@ -1,0 +1,18 @@
+Change values of variables
+The value of a variable can be changed in the program, hence the name variable. For example,
+
+int speedLimit = 80;
+... .. ...
+speedLimit = 90; 
+Here, initially, the value of speedLimit is 80. Later, we changed it to 90.
+
+However, we cannot change the data type of a variable in Java within the same scope.
+
+What is the variable scope?
+
+Don't worry about it for now. Just remember that we can't do something like this:
+
+int speedLimit = 80;
+... .. ...
+float speedLimit;
+To learn more, visit: Can I change declaration type for a variable in Java?
