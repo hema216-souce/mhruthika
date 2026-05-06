@@ -19,5 +19,12 @@ public class GFG {
 
         // Step 4: Print the entered integer
         System.out.println("You entered: " + number);
-    }
+    }Integer Literals
+Integer literals are numeric values (associated with numbers) without any fractional or exponential part. There are 4 types of integer literals in Java:
+
+binary (base 2)
+decimal (base 10)
+octal (base 8)
+hexadecimal (base 16)
+
 }
